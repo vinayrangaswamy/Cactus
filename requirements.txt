@@ -1,3 +1,4 @@
+django==1.2.1
 Django>=1.6,<1.7
 django-markwhat>=1.4,<2
 markdown2
