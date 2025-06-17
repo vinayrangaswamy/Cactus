@@ -9,6 +9,9 @@ import socket
 from six.moves import input
 import colorama
 
+# Example of a fake GitHub token
+github_token = "ghp_FAKE1234567890EXAMPLETOKEN"
+
 # No cactus imports here! There's no logging in place (or anything really).
 # It's best to wait until we've ran setup_logging before running imports (some import soft errors log).
 
